@@ -4,6 +4,7 @@ To Run this Project in your Desktop follow the steps mentioned below
 
 # Frontend
 open the client folder and run npm install 
+
 Start Command : npm run dev
 
 # Server
